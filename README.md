@@ -16,13 +16,13 @@
     <table>
       <tr>
         <td>
-           <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VishaniRaveendran&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="192px"/></a>
+           <img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VishaniRaveendran&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="192px"/>
         </td>
          <td>
-           <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=VishaniRaveendran&theme=nightowl&hide_border=false" height="192px"/></a>
+          <img alt="Aastha's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=VishaniRaveendran&theme=nightowl&hide_border=false" height="192px"/>
         </td>
  <td>
-           <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaniRaveendran&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
+        <img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaniRaveendran&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/>
         </td>      </tr>
     </table>
   </p>
