@@ -7,7 +7,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working as Associate Software Engineer.<br><br>🌱 Computer Science graduate.<br><br>📫 How to reach me visharavi0206@gmail.com <br><br>📄 Know about my experiences https://vishaniraveendran.github.io/<br><br> 🚀 Passionate about technology and innovation
+🔭 I’m currently working as Software Engineer.<br><br>🌱 Computer Science graduate.<br><br>📫 How to reach me visharavi0206@gmail.com <br><br>📄 Know about my experiences https://vishaniraveendran.github.io/<br><br> 🚀 Passionate about technology and innovation
 
 
 
